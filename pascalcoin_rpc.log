@@ -1,0 +1,58 @@
+2020-12-26 11:44:54.919 TID:7FFFF705F700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-26 11:47:22.844 TID:7F0C48176700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-26 11:48:38.273 TID:7FAAA1A65700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-26 12:21:11.947 TID:7FF3AE32B700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-26 13:01:33.512 TID:7F92880B3700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-26 13:31:07.031 TID:7FA4EC34E700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-26 14:01:11.011 TID:7F99FA498700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-26 15:50:46.017 TID:7F0A34F1E700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-27 12:12:33.014 TID:7F03E95A1700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-27 15:30:36.202 TID:7F03E2D87700 [Info] <127.0.0.1:36718 1> Method: Params: 100:No data Time:0.112
+2020-12-27 15:30:43.353 TID:7F03E2D87700 [Info] <127.0.0.1:36720 2> Method: Params: 100:No data Time:0.002
+2020-12-27 15:30:44.949 TID:7F03E2D87700 [Info] <127.0.0.1:36722 3> Method: Params: 100:No data Time:0.001
+2020-12-27 15:35:03.867 TID:7F03E2D87700 [Info] <127.0.0.1:36742 4> Method:getwalletcoins Params:{} 0: Time:0.001
+2020-12-27 15:36:38.139 TID:7F03E2D87700 [Info] <127.0.0.1:36744 5> Method:getwalletcoins Params:{} 0: Time:0.001
+2020-12-27 15:37:29.846 TID:7F03E2D87700 [Info] <127.0.0.1:36748 6> Method:getwalletcoins Params:{} 0: Time:0.001
+2020-12-27 16:21:39.016 TID:7FA469DB1700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-27 16:46:33.723 TID:7FA4623F8700 [Info] <127.0.0.1:60234 1> Method: Params: 100:No data Time:5.000
+2020-12-27 18:32:17.105 TID:7FA461BF6700 [Info] <127.0.0.1:32910 2> Method:getaccountoperations Params:{"account":11,"depth":1000000,"start":0,"max":100} 0: Time:0.008
+2020-12-27 18:38:21.142 TID:7FA44DB36700 [Info] <127.0.0.1:32960 3> Method:getaccountoperations Params:{"account":0,"depth":1000000,"start":0,"max":100} 0: Time:0.006
+2020-12-27 21:53:18.516 TID:7FA44DF37700 [Info] <127.0.0.1:34314 4> Method:getblockcount Params:{} 0: Time:0.001
+2020-12-27 21:53:27.411 TID:7FA44DF37700 [Info] <127.0.0.1:34316 5> Method:getblockcount Params:{} 0: Time:0.001
+2020-12-27 21:59:45.633 TID:7FA46315C700 [Info] <127.0.0.1:34332 6> Method:getaccountoperations Params:{"account":44} 0: Time:0.013
+2020-12-27 22:09:39.028 TID:7FA44FBFE700 [Info] <127.0.0.1:34366 7> Method:getwalletcoins Params:{} 0: Time:0.001
+2020-12-27 22:12:25.353 TID:7FA44EFFB700 [Info] <127.0.0.1:34378 8> Method:getblockcount Params:{} 0: Time:0.001
+2020-12-27 22:13:18.347 TID:7FA44EFFB700 [Info] <127.0.0.1:34382 9> Method:getblockoperation Params:{"block":8888,"opblock":0} 1003:Block not found: 8888 Time:0.000
+2020-12-27 22:13:31.918 TID:7FA44EFFB700 [Info] <127.0.0.1:34384 10> Method:getblockoperation Params:{"block":88,"opblock":0} 1004:Block/Operation not found: 88/0 BlockOperations:0 Time:0.001
+2020-12-27 22:14:27.734 TID:7FA44EFFB700 [Info] <127.0.0.1:34386 11> Method:getpendings Params:{} 0: Time:0.001
+2020-12-27 22:16:40.226 TID:7FA461BF6700 [Info] <127.0.0.1:34394 12> Method:nodestatus Params:{} 0: Time:0.001
+2020-12-27 22:38:53.095 TID:7FA44EFFB700 [Info] <127.0.0.1:34612 13> Method:getwalletaccounts Params:{} 0: Time:0.022
+2020-12-27 22:44:16.992 TID:7FA44E338700 [Info] <127.0.0.1:34624 14> Method:getwalletpubkeys Params:{} 0: Time:0.012
+2020-12-27 22:45:33.113 TID:7FA44E338700 [Info] <127.0.0.1:34630 15> Method:getwalletcoins Params:{} 0: Time:0.001
+2020-12-27 22:48:45.886 TID:7FA4613F4700 [Info] <127.0.0.1:34640 16> Method:nodestatus Params:{} 0: Time:0.001
+2020-12-27 22:49:24.750 TID:7FA44E7E9700 [Info] <127.0.0.1:34642 17> Method:nodestatus Params:{} 0: Time:0.001
+2020-12-27 22:55:09.428 TID:7FA44E338700 [Info] <127.0.0.1:34672 18> Method:getwalletpubkeys Params:{} 0: Time:0.008
+2020-12-27 22:56:18.155 TID:7FA44E338700 [Info] <127.0.0.1:34674 19> Method:getwalletpubkey Params:{} 1005:Need param "enc_pubkey" or "b58_pubkey" Time:0.002
+2020-12-27 22:56:41.507 TID:7FA44E338700 [Info] <127.0.0.1:34678 20> Method:getwalletpubkeys Params:{} 0: Time:0.009
+2020-12-27 23:05:10.063 TID:7FA44E338700 [Info] <127.0.0.1:34702 21> Method:getwalletpubkeys Params:{} 0: Time:0.011
+2020-12-27 23:05:47.486 TID:7FA44E338700 [Info] <127.0.0.1:34704 22> Method:getaccount Params:{"account":1920} 1002:Account not found: 1920 Time:0.001
+2020-12-27 23:07:13.198 TID:7FA44E338700 [Info] <127.0.0.1:34708 23> Method:getaccount Params:{"account":11} 0: Time:0.001
+2020-12-27 23:07:58.197 TID:7FA460FF3700 [Info] <127.0.0.1:34714 24> Method:getaccount Params:{"account":44} 0: Time:0.001
+2020-12-27 23:30:47.606 TID:7FA44F7FD700 [Info] <127.0.0.1:34754 25> Method:nodestatus Params:{} 0: Time:0.001
+2020-12-27 23:32:46.037 TID:7FA461BF6700 [Info] <127.0.0.1:34766 26> Method:nodestatus Params:{} 0: Time:0.001
+2020-12-28 07:12:51.099 TID:7FEDB9452700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-28 20:48:24.015 TID:7FF7DD31A700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-28 20:53:09.633 TID:7FF7D5F77700 [Info] <127.0.0.1:53020 1> Method:getaccount Params:{"account":11} 0: Time:0.002
+2020-12-28 21:08:22.591 TID:7FF7D465F700 [Info] <127.0.0.1:53104 2> Method:getblock Params:{"block":0} 0: Time:0.002
+2020-12-28 21:10:47.301 TID:7FF7D465F700 [Info] <127.0.0.1:53110 3> Method:getblockcount Params:{} 0: Time:0.000
+2020-12-28 21:32:52.180 TID:7FF7C33FC700 [Info] <127.0.0.1:53144 4> Method: Params: 100:No data Time:0.010
+2020-12-29 00:05:25.841 TID:7FF7C27F9700 [Info] <127.0.0.1:54992 5> Method:getaccount Params:{"account":34500} 1002:Account not found: 34500 Time:0.001
+2020-12-29 00:05:43.574 TID:7FF7C27F9700 [Info] <127.0.0.1:54994 6> Method:getaccount Params:{"account":11} 0: Time:0.006
+2020-12-29 00:06:51.359 TID:7FF7C33FC700 [Info] <127.0.0.1:55008 7> Method:getaccount Params:{"account":44} 0: Time:0.010
+2020-12-29 00:09:39.738 TID:7FF7C33FC700 [Info] <127.0.0.1:55018 8> Method:getaccount Params:{"account":44} 0: Time:0.004
+2020-12-29 00:20:24.822 TID:7FF7C2BFA700 [Info] <127.0.0.1:55054 9> Method:getaccount Params:{"account":44} 0: Time:0.004
+2020-12-29 08:00:21.017 TID:7F100559D700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-29 14:10:25.019 TID:7F07FBC32700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-30 08:38:51.021 TID:7F12B5A9A700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-30 08:49:28.020 TID:7FDD5F22B700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
+2020-12-30 17:47:57.022 TID:7F6B79D30700 [Info] <TLog> Log file start: /home/ms/PascalLite/pascalcoin_rpc.log
